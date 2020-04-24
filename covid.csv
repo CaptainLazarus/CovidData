@@ -98,36 +98,102 @@ date,time,Name of State / UT,Total Confirmed cases (Indian National),Cured/Disch
 23 April 2020, 08:00 ,Uttar Pradesh,1449.0,173,21.0
 23 April 2020, 08:00 ,West Bengal,456.0,79,15.0
 23 April 2020, 08:00 ,21393*,,4258,
-23 April 2020, 17:00 ,Andaman and Nicobar Islands,18,11,0
-23 April 2020, 17:00 ,Andhra Pradesh,895,141,27
-23 April 2020, 17:00 ,Arunachal Pradesh,1,1,0
-23 April 2020, 17:00 ,Assam,35,19,1
-23 April 2020, 17:00 ,Bihar,148,46,2
-23 April 2020, 17:00 ,Chandigarh,27,14,0
-23 April 2020, 17:00 ,Chhattisgarh,36,28,0
-23 April 2020, 17:00 ,Delhi,2248,724,48
-23 April 2020, 17:00 ,Goa,7,7,0
-23 April 2020, 17:00 ,Gujarat,2407,179,103
-23 April 2020, 17:00 ,Haryana,262,140,3
-23 April 2020, 17:00 ,Himachal Pradesh,40,18,1
-23 April 2020, 17:00 ,Jammu and Kashmir,407,92,5
-23 April 2020, 17:00 ,Jharkhand,49,8,3
-23 April 2020, 17:00 ,Karnataka,443,141,17
-23 April 2020, 17:00 ,Kerala,438,324,3
-23 April 2020, 17:00 ,Ladakh,18,14,0
-23 April 2020, 17:00 ,Madhya Pradesh,1695,148,81
-23 April 2020, 17:00 ,Maharashtra,5652,789,269
-23 April 2020, 17:00 ,Manipur,2,2,0
-23 April 2020, 17:00 ,Meghalaya,12,0,1
-23 April 2020, 17:00 ,Mizoram,1,0,0
-23 April 2020, 17:00 ,Odisha,83,32,1
-23 April 2020, 17:00 ,Puducherry,7,3,0
-23 April 2020, 17:00 ,Punjab,277,65,16
-23 April 2020, 17:00 ,Rajasthan,1890,230,27
-23 April 2020, 17:00 ,Tamil Nadu,1629,662,18
-23 April 2020, 17:00 ,Telengana,960,197,24
-23 April 2020, 17:00 ,Tripura,2,1,0
-23 April 2020, 17:00 ,Uttarakhand,46,23,0
-23 April 2020, 17:00 ,Uttar Pradesh,1509,187,21
-23 April 2020, 17:00 ,West Bengal,456,79,15
+23 April 2020, 17:00 ,Andaman and Nicobar Islands,18.0,11,0.0
+23 April 2020, 17:00 ,Andhra Pradesh,895.0,141,27.0
+23 April 2020, 17:00 ,Arunachal Pradesh,1.0,1,0.0
+23 April 2020, 17:00 ,Assam,35.0,19,1.0
+23 April 2020, 17:00 ,Bihar,148.0,46,2.0
+23 April 2020, 17:00 ,Chandigarh,27.0,14,0.0
+23 April 2020, 17:00 ,Chhattisgarh,36.0,28,0.0
+23 April 2020, 17:00 ,Delhi,2248.0,724,48.0
+23 April 2020, 17:00 ,Goa,7.0,7,0.0
+23 April 2020, 17:00 ,Gujarat,2407.0,179,103.0
+23 April 2020, 17:00 ,Haryana,262.0,140,3.0
+23 April 2020, 17:00 ,Himachal Pradesh,40.0,18,1.0
+23 April 2020, 17:00 ,Jammu and Kashmir,407.0,92,5.0
+23 April 2020, 17:00 ,Jharkhand,49.0,8,3.0
+23 April 2020, 17:00 ,Karnataka,443.0,141,17.0
+23 April 2020, 17:00 ,Kerala,438.0,324,3.0
+23 April 2020, 17:00 ,Ladakh,18.0,14,0.0
+23 April 2020, 17:00 ,Madhya Pradesh,1695.0,148,81.0
+23 April 2020, 17:00 ,Maharashtra,5652.0,789,269.0
+23 April 2020, 17:00 ,Manipur,2.0,2,0.0
+23 April 2020, 17:00 ,Meghalaya,12.0,0,1.0
+23 April 2020, 17:00 ,Mizoram,1.0,0,0.0
+23 April 2020, 17:00 ,Odisha,83.0,32,1.0
+23 April 2020, 17:00 ,Puducherry,7.0,3,0.0
+23 April 2020, 17:00 ,Punjab,277.0,65,16.0
+23 April 2020, 17:00 ,Rajasthan,1890.0,230,27.0
+23 April 2020, 17:00 ,Tamil Nadu,1629.0,662,18.0
+23 April 2020, 17:00 ,Telengana,960.0,197,24.0
+23 April 2020, 17:00 ,Tripura,2.0,1,0.0
+23 April 2020, 17:00 ,Uttarakhand,46.0,23,0.0
+23 April 2020, 17:00 ,Uttar Pradesh,1509.0,187,21.0
+23 April 2020, 17:00 ,West Bengal,456.0,79,15.0
 23 April 2020, 17:00 ,21700*,,4325,
+24 April 2020, 08:00 ,Andaman and Nicobar Islands,22.0,11,0.0
+24 April 2020, 08:00 ,Andhra Pradesh,895.0,141,27.0
+24 April 2020, 08:00 ,Arunachal Pradesh,1.0,1,0.0
+24 April 2020, 08:00 ,Assam,36.0,19,1.0
+24 April 2020, 08:00 ,Bihar,153.0,46,2.0
+24 April 2020, 08:00 ,Chandigarh,27.0,14,0.0
+24 April 2020, 08:00 ,Chhattisgarh,36.0,28,0.0
+24 April 2020, 08:00 ,Delhi,2376.0,808,50.0
+24 April 2020, 08:00 ,Goa,7.0,7,0.0
+24 April 2020, 08:00 ,Gujarat,2624.0,258,112.0
+24 April 2020, 08:00 ,Haryana,272.0,156,3.0
+24 April 2020, 08:00 ,Himachal Pradesh,40.0,18,1.0
+24 April 2020, 08:00 ,Jammu and Kashmir,427.0,92,5.0
+24 April 2020, 08:00 ,Jharkhand,53.0,8,3.0
+24 April 2020, 08:00 ,Karnataka,445.0,145,17.0
+24 April 2020, 08:00 ,Kerala,447.0,324,3.0
+24 April 2020, 08:00 ,Ladakh,18.0,14,0.0
+24 April 2020, 08:00 ,Madhya Pradesh,1699.0,203,83.0
+24 April 2020, 08:00 ,Maharashtra,6430.0,840,283.0
+24 April 2020, 08:00 ,Manipur,2.0,2,0.0
+24 April 2020, 08:00 ,Meghalaya,12.0,0,1.0
+24 April 2020, 08:00 ,Mizoram,1.0,0,0.0
+24 April 2020, 08:00 ,Odisha,90.0,33,1.0
+24 April 2020, 08:00 ,Puducherry,7.0,3,0.0
+24 April 2020, 08:00 ,Punjab,277.0,65,16.0
+24 April 2020, 08:00 ,Rajasthan,1964.0,230,27.0
+24 April 2020, 08:00 ,Tamil Nadu,1683.0,752,20.0
+24 April 2020, 08:00 ,Telengana,960.0,197,24.0
+24 April 2020, 08:00 ,Tripura,2.0,1,0.0
+24 April 2020, 08:00 ,Uttarakhand,47.0,24,0.0
+24 April 2020, 08:00 ,Uttar Pradesh,1510.0,206,24.0
+24 April 2020, 08:00 ,West Bengal,514.0,103,15.0
+24 April 2020, 08:00 ,23077*,,4749,
+24 April 2020, 17:00 ,Andaman and Nicobar Islands,22,11,0
+24 April 2020, 17:00 ,Andhra Pradesh,955,145,29
+24 April 2020, 17:00 ,Arunachal Pradesh,1,1,0
+24 April 2020, 17:00 ,Assam,36,19,1
+24 April 2020, 17:00 ,Bihar,176,46,2
+24 April 2020, 17:00 ,Chandigarh,27,14,0
+24 April 2020, 17:00 ,Chhattisgarh,36,28,0
+24 April 2020, 17:00 ,Delhi,2376,808,50
+24 April 2020, 17:00 ,Goa,7,7,0
+24 April 2020, 17:00 ,Gujarat,2624,258,112
+24 April 2020, 17:00 ,Haryana,272,156,3
+24 April 2020, 17:00 ,Himachal Pradesh,40,18,1
+24 April 2020, 17:00 ,Jammu and Kashmir,427,92,5
+24 April 2020, 17:00 ,Jharkhand,55,8,3
+24 April 2020, 17:00 ,Karnataka,463,150,18
+24 April 2020, 17:00 ,Kerala,448,324,3
+24 April 2020, 17:00 ,Ladakh,18,14,0
+24 April 2020, 17:00 ,Madhya Pradesh,1852,203,83
+24 April 2020, 17:00 ,Maharashtra,6430,840,283
+24 April 2020, 17:00 ,Manipur,2,2,0
+24 April 2020, 17:00 ,Meghalaya,12,0,1
+24 April 2020, 17:00 ,Mizoram,1,0,0
+24 April 2020, 17:00 ,Odisha,90,33,1
+24 April 2020, 17:00 ,Puducherry,7,3,0
+24 April 2020, 17:00 ,Punjab,277,65,16
+24 April 2020, 17:00 ,Rajasthan,1964,230,27
+24 April 2020, 17:00 ,Tamil Nadu,1683,752,20
+24 April 2020, 17:00 ,Telengana,984,253,26
+24 April 2020, 17:00 ,Tripura,2,1,0
+24 April 2020, 17:00 ,Uttarakhand,47,24,0
+24 April 2020, 17:00 ,Uttar Pradesh,1604,206,24
+24 April 2020, 17:00 ,West Bengal,514,103,15
+24 April 2020, 17:00 ,23452*,,4814,
