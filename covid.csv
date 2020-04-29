@@ -426,36 +426,102 @@ date,time,Name of State / UT,Total Confirmed cases (Indian National),Cured/Disch
 28 April 2020, 08:00 ,Uttar Pradesh,1955.0,335,31.0
 28 April 2020, 08:00 ,West Bengal,697.0,109,20.0
 28 April 2020, 08:00 ,29435*,,6869,
-28 April 2020, 17:00 ,Andaman and Nicobar Islands,33,11,0
-28 April 2020, 17:00 ,Andhra Pradesh,1259,258,31
-28 April 2020, 17:00 ,Arunachal Pradesh,1,1,0
-28 April 2020, 17:00 ,Assam,38,27,1
-28 April 2020, 17:00 ,Bihar,346,57,2
-28 April 2020, 17:00 ,Chandigarh,40,17,0
-28 April 2020, 17:00 ,Chhattisgarh,37,32,0
-28 April 2020, 17:00 ,Delhi,3108,877,54
-28 April 2020, 17:00 ,Goa,7,7,0
-28 April 2020, 17:00 ,Gujarat,3548,394,162
-28 April 2020, 17:00 ,Haryana,296,183,3
-28 April 2020, 17:00 ,Himachal Pradesh,40,22,1
-28 April 2020, 17:00 ,Jammu and Kashmir,546,164,7
-28 April 2020, 17:00 ,Jharkhand,103,17,3
-28 April 2020, 17:00 ,Karnataka,520,198,20
-28 April 2020, 17:00 ,Kerala,482,355,4
-28 April 2020, 17:00 ,Ladakh,22,16,0
-28 April 2020, 17:00 ,Madhya Pradesh,2368,361,113
-28 April 2020, 17:00 ,Maharashtra,8590,1282,369
-28 April 2020, 17:00 ,Manipur,2,2,0
-28 April 2020, 17:00 ,Meghalaya,12,0,1
-28 April 2020, 17:00 ,Mizoram,1,0,0
-28 April 2020, 17:00 ,Odisha,118,37,1
-28 April 2020, 17:00 ,Puducherry,8,3,0
-28 April 2020, 17:00 ,Punjab,313,71,18
-28 April 2020, 17:00 ,Rajasthan,2262,669,46
-28 April 2020, 17:00 ,Tamil Nadu,1937,1101,24
-28 April 2020, 17:00 ,Telengana,1004,321,26
-28 April 2020, 17:00 ,Tripura,2,2,0
-28 April 2020, 17:00 ,Uttarakhand,51,33,0
-28 April 2020, 17:00 ,Uttar Pradesh,2043,400,31
-28 April 2020, 17:00 ,West Bengal,697,109,20
+28 April 2020, 17:00 ,Andaman and Nicobar Islands,33.0,11,0.0
+28 April 2020, 17:00 ,Andhra Pradesh,1259.0,258,31.0
+28 April 2020, 17:00 ,Arunachal Pradesh,1.0,1,0.0
+28 April 2020, 17:00 ,Assam,38.0,27,1.0
+28 April 2020, 17:00 ,Bihar,346.0,57,2.0
+28 April 2020, 17:00 ,Chandigarh,40.0,17,0.0
+28 April 2020, 17:00 ,Chhattisgarh,37.0,32,0.0
+28 April 2020, 17:00 ,Delhi,3108.0,877,54.0
+28 April 2020, 17:00 ,Goa,7.0,7,0.0
+28 April 2020, 17:00 ,Gujarat,3548.0,394,162.0
+28 April 2020, 17:00 ,Haryana,296.0,183,3.0
+28 April 2020, 17:00 ,Himachal Pradesh,40.0,22,1.0
+28 April 2020, 17:00 ,Jammu and Kashmir,546.0,164,7.0
+28 April 2020, 17:00 ,Jharkhand,103.0,17,3.0
+28 April 2020, 17:00 ,Karnataka,520.0,198,20.0
+28 April 2020, 17:00 ,Kerala,482.0,355,4.0
+28 April 2020, 17:00 ,Ladakh,22.0,16,0.0
+28 April 2020, 17:00 ,Madhya Pradesh,2368.0,361,113.0
+28 April 2020, 17:00 ,Maharashtra,8590.0,1282,369.0
+28 April 2020, 17:00 ,Manipur,2.0,2,0.0
+28 April 2020, 17:00 ,Meghalaya,12.0,0,1.0
+28 April 2020, 17:00 ,Mizoram,1.0,0,0.0
+28 April 2020, 17:00 ,Odisha,118.0,37,1.0
+28 April 2020, 17:00 ,Puducherry,8.0,3,0.0
+28 April 2020, 17:00 ,Punjab,313.0,71,18.0
+28 April 2020, 17:00 ,Rajasthan,2262.0,669,46.0
+28 April 2020, 17:00 ,Tamil Nadu,1937.0,1101,24.0
+28 April 2020, 17:00 ,Telengana,1004.0,321,26.0
+28 April 2020, 17:00 ,Tripura,2.0,2,0.0
+28 April 2020, 17:00 ,Uttarakhand,51.0,33,0.0
+28 April 2020, 17:00 ,Uttar Pradesh,2043.0,400,31.0
+28 April 2020, 17:00 ,West Bengal,697.0,109,20.0
 28 April 2020, 17:00 ,29974*,,7027,
+29 April 2020, 08:00 ,Andaman and Nicobar Islands,33.0,15,0.0
+29 April 2020, 08:00 ,Andhra Pradesh,1259.0,258,31.0
+29 April 2020, 08:00 ,Arunachal Pradesh,1.0,1,0.0
+29 April 2020, 08:00 ,Assam,38.0,27,1.0
+29 April 2020, 08:00 ,Bihar,366.0,64,2.0
+29 April 2020, 08:00 ,Chandigarh,56.0,17,0.0
+29 April 2020, 08:00 ,Chhattisgarh,38.0,34,0.0
+29 April 2020, 08:00 ,Delhi,3314.0,1078,54.0
+29 April 2020, 08:00 ,Goa,7.0,7,0.0
+29 April 2020, 08:00 ,Gujarat,3744.0,434,181.0
+29 April 2020, 08:00 ,Haryana,310.0,209,3.0
+29 April 2020, 08:00 ,Himachal Pradesh,40.0,25,1.0
+29 April 2020, 08:00 ,Jammu and Kashmir,565.0,176,8.0
+29 April 2020, 08:00 ,Jharkhand,103.0,17,3.0
+29 April 2020, 08:00 ,Karnataka,523.0,207,20.0
+29 April 2020, 08:00 ,Kerala,485.0,359,4.0
+29 April 2020, 08:00 ,Ladakh,22.0,16,0.0
+29 April 2020, 08:00 ,Madhya Pradesh,2387.0,377,120.0
+29 April 2020, 08:00 ,Maharashtra,9318.0,1388,400.0
+29 April 2020, 08:00 ,Manipur,2.0,2,0.0
+29 April 2020, 08:00 ,Meghalaya,12.0,0,1.0
+29 April 2020, 08:00 ,Mizoram,1.0,0,0.0
+29 April 2020, 08:00 ,Odisha,118.0,38,1.0
+29 April 2020, 08:00 ,Puducherry,8.0,3,0.0
+29 April 2020, 08:00 ,Punjab,322.0,71,19.0
+29 April 2020, 08:00 ,Rajasthan,2364.0,768,51.0
+29 April 2020, 08:00 ,Tamil Nadu,2058.0,1168,25.0
+29 April 2020, 08:00 ,Telengana,1004.0,321,26.0
+29 April 2020, 08:00 ,Tripura,2.0,2,0.0
+29 April 2020, 08:00 ,Uttarakhand,54.0,33,0.0
+29 April 2020, 08:00 ,Uttar Pradesh,2053.0,462,34.0
+29 April 2020, 08:00 ,West Bengal,725.0,119,22.0
+29 April 2020, 08:00 ,31332*,,7696,
+29 April 2020, 17:00 ,Andaman and Nicobar Islands,33,15,0
+29 April 2020, 17:00 ,Andhra Pradesh,1332,287,31
+29 April 2020, 17:00 ,Arunachal Pradesh,1,1,0
+29 April 2020, 17:00 ,Assam,38,27,1
+29 April 2020, 17:00 ,Bihar,383,64,2
+29 April 2020, 17:00 ,Chandigarh,56,17,0
+29 April 2020, 17:00 ,Chhattisgarh,38,34,0
+29 April 2020, 17:00 ,Delhi,3314,1078,54
+29 April 2020, 17:00 ,Goa,7,7,0
+29 April 2020, 17:00 ,Gujarat,3774,434,181
+29 April 2020, 17:00 ,Haryana,310,209,3
+29 April 2020, 17:00 ,Himachal Pradesh,40,25,1
+29 April 2020, 17:00 ,Jammu and Kashmir,565,176,8
+29 April 2020, 17:00 ,Jharkhand,105,19,3
+29 April 2020, 17:00 ,Karnataka,532,215,20
+29 April 2020, 17:00 ,Kerala,486,359,4
+29 April 2020, 17:00 ,Ladakh,22,16,0
+29 April 2020, 17:00 ,Madhya Pradesh#,2561,377,119#
+29 April 2020, 17:00 ,Maharashtra,9318,1388,400
+29 April 2020, 17:00 ,Manipur,2,2,0
+29 April 2020, 17:00 ,Meghalaya,12,0,1
+29 April 2020, 17:00 ,Mizoram,1,0,0
+29 April 2020, 17:00 ,Odisha,119,38,1
+29 April 2020, 17:00 ,Puducherry,8,3,0
+29 April 2020, 17:00 ,Punjab,322,71,19
+29 April 2020, 17:00 ,Rajasthan,2364,768,51
+29 April 2020, 17:00 ,Tamil Nadu,2058,1168,25
+29 April 2020, 17:00 ,Telengana,1012,367,26
+29 April 2020, 17:00 ,Tripura,2,2,0
+29 April 2020, 17:00 ,Uttarakhand,54,34,0
+29 April 2020, 17:00 ,Uttar Pradesh,2115,477,36
+29 April 2020, 17:00 ,West Bengal,725,119,22
+29 April 2020, 17:00 ,31787*,,7797,
