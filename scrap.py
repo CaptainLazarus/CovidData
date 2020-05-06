@@ -30,12 +30,17 @@ import pandas as pd     # creating structured data
 import requests         # fetching the page containing data
 import re               # dissecting data
 from bs4 import BeautifulSoup   # parsing the page to ease data extractioin
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-l" , "--link", default="https://www.mohfw.gov.in/", help="Link to scrape from")
+args = vars(parser.parse_args())
 
 
 # %%
 # checking connections
 try:
-    url = "https://www.mohfw.gov.in/"
+    url = args["link"]
     response = requests.get(url)
     print("Checking connections ...", response)
     if len(re.findall('200', str(response))) != 0:
@@ -147,9 +152,17 @@ df.tail()
 # %%
 # Extracting each observation and appending to observations
 rows = crude_data.find('section', attrs= {'id': 'state-data'}).find('table', attrs = {'class': 'table table-striped'}).findAll('tr')
-rows[1]
+# print(rows[34].find("td"))
+# print(rows)
+count = 1
+for row in rows[1:]:
+    if "colspan" in row.find("td").attrs:
+        break
+    # print(row)
+    count+=1
+
 observations = []
-for row in rows[1:-2]:    # 1st or 0th index belongs to header, last row refers to summed info (total)
+for row in rows[1:(count+1)]:    # 1st or 0th index belongs to header, last row refers to summed info (total)
     observation = {}
     values = row.text.strip('\n')
     values = values.replace(",", '')
