@@ -822,36 +822,102 @@ date,time,Name of State / UT,Total Confirmed cases (Indian National),Cured/Disch
 04 May 2020, 08:00 ,Uttar Pradesh,2645.0,754,43
 04 May 2020, 08:00 ,West Bengal,963.0,151,35
 04 May 2020, 08:00 ,42533*,,11707,
-04 May 2020, 17:00 ,Andaman and Nicobar Islands,33,32,0
-04 May 2020, 17:00 ,Andhra Pradesh,1650,524,36
-04 May 2020, 17:00 ,Arunachal Pradesh,1,1,0
-04 May 2020, 17:00 ,Assam,43,32,1
-04 May 2020, 17:00 ,Bihar,517,125,4
-04 May 2020, 17:00 ,Chandigarh,94,19,0
-04 May 2020, 17:00 ,Chhattisgarh,57,36,0
-04 May 2020, 17:00 ,Delhi,4549,1362,64
-04 May 2020, 17:00 ,Goa,7,7,0
-04 May 2020, 17:00 ,Gujarat,5428,1042,290
-04 May 2020, 17:00 ,Haryana,442,245,5
-04 May 2020, 17:00 ,Himachal Pradesh,40,34,1
-04 May 2020, 17:00 ,Jammu and Kashmir,701,287,8
-04 May 2020, 17:00 ,Jharkhand,115,22,3
-04 May 2020, 17:00 ,Karnataka,642,304,26
-04 May 2020, 17:00 ,Kerala,500,401,4
-04 May 2020, 17:00 ,Ladakh,41,17,0
-04 May 2020, 17:00 ,Madhya Pradesh,2942,798,165
-04 May 2020, 17:00 ,Maharashtra,12974,2115,548
-04 May 2020, 17:00 ,Manipur,2,2,0
-04 May 2020, 17:00 ,Meghalaya,12,0,1
-04 May 2020, 17:00 ,Mizoram,1,0,0
-04 May 2020, 17:00 ,Odisha,163,60,1
-04 May 2020, 17:00 ,Puducherry,8,5,0
-04 May 2020, 17:00 ,Punjab,1102,117,21
-04 May 2020, 17:00 ,Rajasthan,2886,1356,71
-04 May 2020, 17:00 ,Tamil Nadu,3023,1379,30
-04 May 2020, 17:00 ,Telengana,1082,490,29
-04 May 2020, 17:00 ,Tripura,16,2,0
-04 May 2020, 17:00 ,Uttarakhand,60,39,1
-04 May 2020, 17:00 ,Uttar Pradesh,2742,758,45
-04 May 2020, 17:00 ,West Bengal,963,151,35
+04 May 2020, 17:00 ,Andaman and Nicobar Islands,33.0,32,0
+04 May 2020, 17:00 ,Andhra Pradesh,1650.0,524,36
+04 May 2020, 17:00 ,Arunachal Pradesh,1.0,1,0
+04 May 2020, 17:00 ,Assam,43.0,32,1
+04 May 2020, 17:00 ,Bihar,517.0,125,4
+04 May 2020, 17:00 ,Chandigarh,94.0,19,0
+04 May 2020, 17:00 ,Chhattisgarh,57.0,36,0
+04 May 2020, 17:00 ,Delhi,4549.0,1362,64
+04 May 2020, 17:00 ,Goa,7.0,7,0
+04 May 2020, 17:00 ,Gujarat,5428.0,1042,290
+04 May 2020, 17:00 ,Haryana,442.0,245,5
+04 May 2020, 17:00 ,Himachal Pradesh,40.0,34,1
+04 May 2020, 17:00 ,Jammu and Kashmir,701.0,287,8
+04 May 2020, 17:00 ,Jharkhand,115.0,22,3
+04 May 2020, 17:00 ,Karnataka,642.0,304,26
+04 May 2020, 17:00 ,Kerala,500.0,401,4
+04 May 2020, 17:00 ,Ladakh,41.0,17,0
+04 May 2020, 17:00 ,Madhya Pradesh,2942.0,798,165
+04 May 2020, 17:00 ,Maharashtra,12974.0,2115,548
+04 May 2020, 17:00 ,Manipur,2.0,2,0
+04 May 2020, 17:00 ,Meghalaya,12.0,0,1
+04 May 2020, 17:00 ,Mizoram,1.0,0,0
+04 May 2020, 17:00 ,Odisha,163.0,60,1
+04 May 2020, 17:00 ,Puducherry,8.0,5,0
+04 May 2020, 17:00 ,Punjab,1102.0,117,21
+04 May 2020, 17:00 ,Rajasthan,2886.0,1356,71
+04 May 2020, 17:00 ,Tamil Nadu,3023.0,1379,30
+04 May 2020, 17:00 ,Telengana,1082.0,490,29
+04 May 2020, 17:00 ,Tripura,16.0,2,0
+04 May 2020, 17:00 ,Uttarakhand,60.0,39,1
+04 May 2020, 17:00 ,Uttar Pradesh,2742.0,758,45
+04 May 2020, 17:00 ,West Bengal,963.0,151,35
 04 May 2020, 17:00 ,42836*,,11762,
+05 May 2020, 08:00 ,Andaman and Nicobar Islands,33.0,32,0
+05 May 2020, 08:00 ,Andhra Pradesh,1650.0,524,36
+05 May 2020, 08:00 ,Arunachal Pradesh,1.0,1,0
+05 May 2020, 08:00 ,Assam,43.0,32,1
+05 May 2020, 08:00 ,Bihar,528.0,130,4
+05 May 2020, 08:00 ,Chandigarh,102.0,21,1
+05 May 2020, 08:00 ,Chhattisgarh,58.0,36,0
+05 May 2020, 08:00 ,Delhi,4898.0,1431,64
+05 May 2020, 08:00 ,Goa,7.0,7,0
+05 May 2020, 08:00 ,Gujarat,5804.0,1195,319
+05 May 2020, 08:00 ,Haryana,517.0,254,6
+05 May 2020, 08:00 ,Himachal Pradesh,41.0,34,1
+05 May 2020, 08:00 ,Jammu and Kashmir,726.0,303,8
+05 May 2020, 08:00 ,Jharkhand,115.0,27,3
+05 May 2020, 08:00 ,Karnataka,651.0,321,27
+05 May 2020, 08:00 ,Kerala,500.0,462,4
+05 May 2020, 08:00 ,Ladakh,41.0,17,0
+05 May 2020, 08:00 ,Madhya Pradesh,2942.0,798,165
+05 May 2020, 08:00 ,Maharashtra,14541.0,2465,583
+05 May 2020, 08:00 ,Manipur,2.0,2,0
+05 May 2020, 08:00 ,Meghalaya,12.0,0,1
+05 May 2020, 08:00 ,Mizoram,1.0,0,0
+05 May 2020, 08:00 ,Odisha,169.0,60,1
+05 May 2020, 08:00 ,Puducherry,8.0,5,0
+05 May 2020, 08:00 ,Punjab,1233.0,121,23
+05 May 2020, 08:00 ,Rajasthan,3061.0,1394,77
+05 May 2020, 08:00 ,Tamil Nadu,3550.0,1409,31
+05 May 2020, 08:00 ,Telengana,1085.0,585,29
+05 May 2020, 08:00 ,Tripura,29.0,2,0
+05 May 2020, 08:00 ,Uttarakhand,60.0,39,1
+05 May 2020, 08:00 ,Uttar Pradesh,2766.0,802,50
+05 May 2020, 08:00 ,West Bengal,1259.0,218,133
+05 May 2020, 08:00 ,46433*,,12727,
+05 May 2020, 08:00 ,Andaman and Nicobar Islands,33,32,0
+05 May 2020, 08:00 ,Andhra Pradesh,1650,524,36
+05 May 2020, 08:00 ,Arunachal Pradesh,1,1,0
+05 May 2020, 08:00 ,Assam,43,32,1
+05 May 2020, 08:00 ,Bihar,528,130,4
+05 May 2020, 08:00 ,Chandigarh,102,21,1
+05 May 2020, 08:00 ,Chhattisgarh,58,36,0
+05 May 2020, 08:00 ,Delhi,4898,1431,64
+05 May 2020, 08:00 ,Goa,7,7,0
+05 May 2020, 08:00 ,Gujarat,5804,1195,319
+05 May 2020, 08:00 ,Haryana,517,254,6
+05 May 2020, 08:00 ,Himachal Pradesh,41,34,1
+05 May 2020, 08:00 ,Jammu and Kashmir,726,303,8
+05 May 2020, 08:00 ,Jharkhand,115,27,3
+05 May 2020, 08:00 ,Karnataka,651,321,27
+05 May 2020, 08:00 ,Kerala,500,462,4
+05 May 2020, 08:00 ,Ladakh,41,17,0
+05 May 2020, 08:00 ,Madhya Pradesh,2942,798,165
+05 May 2020, 08:00 ,Maharashtra,14541,2465,583
+05 May 2020, 08:00 ,Manipur,2,2,0
+05 May 2020, 08:00 ,Meghalaya,12,0,1
+05 May 2020, 08:00 ,Mizoram,1,0,0
+05 May 2020, 08:00 ,Odisha,169,60,1
+05 May 2020, 08:00 ,Puducherry,8,5,0
+05 May 2020, 08:00 ,Punjab,1233,121,23
+05 May 2020, 08:00 ,Rajasthan,3061,1394,77
+05 May 2020, 08:00 ,Tamil Nadu,3550,1409,31
+05 May 2020, 08:00 ,Telengana,1085,585,29
+05 May 2020, 08:00 ,Tripura,29,2,0
+05 May 2020, 08:00 ,Uttarakhand,60,39,1
+05 May 2020, 08:00 ,Uttar Pradesh,2766,802,50
+05 May 2020, 08:00 ,West Bengal,1259,218,133
+05 May 2020, 08:00 ,46433*,,12727,
